@@ -1,0 +1,8 @@
+li {
+    list-style: none;
+    background-color: aqua;
+}
+
+li:hover {
+    background-color: green;
+}
